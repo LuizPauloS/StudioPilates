@@ -10,6 +10,7 @@
     <!--Nome Telas-->
     <string name="activity_pacientes">Pacientes</string>
     <string name="activity_pagamentos">Pagamentos</string>
+    <string name="activity_cadastrar_paciente">Novo Paciente</string>
 
     <!--Menu Navegacao-->
     <string name="app_pacientes">Pacientes</string>

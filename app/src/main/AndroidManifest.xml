@@ -27,6 +27,8 @@
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
+            android:screenOrientation="portrait"
+            android:label="@string/activity_cadastrar_paciente"
             android:name=".CadastroPacienteActivity">
         </activity>
     </application>

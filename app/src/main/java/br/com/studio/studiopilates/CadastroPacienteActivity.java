@@ -16,6 +16,8 @@ public class CadastroPacienteActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cadastro_paciente);
 
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
         TabCadastroPacienteAdapter mAdapter = new TabCadastroPacienteAdapter(this, getSupportFragmentManager());
 
         ViewPager viewPager = (ViewPager) findViewById(R.id.cadastro_paciente_pager);
