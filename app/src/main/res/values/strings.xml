@@ -5,4 +5,36 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="title_activity_pacientes">PacientesActivity</string>
+
+    <!--Nome Telas-->
+    <string name="activity_pacientes">Pacientes</string>
+    <string name="activity_pagamentos">Pagamentos</string>
+
+    <!--Menu Navegacao-->
+    <string name="app_pacientes">Pacientes</string>
+    <string name="app_pagamentos">Pagamentos</string>
+
+    <!--Cadastro Pacientes-->
+    <string name="app_nome_paciente">Nome</string>
+    <string name="app_data_nascimento_paciente">Data de Nascimento</string>
+    <string name="app_status_paciente">Status</string>
+    <string name="app_status_ativo">Ativo</string>
+    <string name="app_status_inativo">Inativo</string>
+    <string name="app_email_paciente">Email</string>
+    <string name="app_telefone_paciente">Telefone</string>
+    <string name="app_sexo_paciente">Sexo</string>
+    <string name="app_sexo_masculino">Masculino</string>
+    <string name="app_sexo_feminino">Feminino</string>
+    <string name="app_endereco_paciente">Endereco</string>
+    <string name="app_bairro_paciente">Bairro</string>
+    <string name="app_numero_paciente">Número</string>
+    <string name="app_cep_paciente">CEP</string>
+    <string name="app_cidade_paciente">Cidade</string>
+
+
+    <!-- Titulo Abas-->
+    <string name="tab_dados_pessoais">Dados Pessoais</string>
+    <string name="tab_endereco">Endereço</string>
+
 </resources>
